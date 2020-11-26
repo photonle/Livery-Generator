@@ -1,0 +1,20 @@
+{
+	"roof":	{
+		"pos": [140, 1466, 1325, -90],
+		"font": "HelveticaNeueLTCom-XBlkCn.ttf"
+	},
+	"side": {
+		"size": 40,
+		"left": [1784, 1930, -2.2],
+		"right": [1790, 712, 182.2],
+		"font": "side-font.otf"
+	},
+	"colors": {
+		"pt": [
+			"#2a2d32", "#2a2d32"],
+		"pp": ["#2a2d32", "#2a2d32"],
+		"pd": ["#2a2d32", "#2a2d32"],
+		"pu": ["#2a2d32", "#2a2d32"],
+		"pg": ["#ffffff", "#4f5355"]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"roof": {
+		"font": "HelveticaNeueLTCom-XBlkCn.ttf",
+		"pos": [186, 1680, 1228, -90]
+	},
+	"side": {
+		"font": "side-font.otf",
+		"size": 40,
+		"left": [1828, 1724, 0],
+		"right": [1828, 716, 180]
+	},
+	"colors": {
+		"pp": ["#2a2d32", "#2a2d32"],
+		"ps": ["#2a2d32", "#2a2d32"],
+		"pt": ["#2a2d32", "#2a2d32"],
+		"pd": ["#2a2d32", "#2a2d32"],
+		"pg": [
+			"#ffffff", "#2b2c2e"
+		],
+		"pw": [
+			"#ffffff", "#2b2c2e"
+		]
+	}
+}
