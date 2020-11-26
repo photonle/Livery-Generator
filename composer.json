@@ -1,0 +1,25 @@
+{
+    "name": "photon/livery-generator",
+    "description": "Livery / AirEL generator web backend for Photon.",
+    "type": "project",
+    "authors": [{
+        "name": "John Internet",
+        "email": "photon@doctor-internet.dev",
+        "role": "Developer"
+    }],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1",
+        "ext-gd": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Photon\\Generator\\": "src/"
+        },
+        "files": [
+            "src/path.php",
+            "src/cache.php"
+        ]
+    }
+}
